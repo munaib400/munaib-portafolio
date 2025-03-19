@@ -27,7 +27,8 @@ function Hero() {
         </div>
         <div className={styles.info}>
             <h1>Munaib <br /> Rehman</h1>
-            <h2>Full Stack Developer</h2>
+            <h2>React Developer</h2>
+            <h3>Experienced Web developer from Portbello</h3>
             <span>
                 <a href="https://x.com/munibCh9" target='_blank'>
                 <img src={XIcon} alt="X icon" />
