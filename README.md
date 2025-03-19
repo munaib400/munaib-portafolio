@@ -10,3 +10,20 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+# My Portfolio Website
+
+This is my personal portfolio website built with React and Vite. It showcases my web development skills, including projects, services, and contact information.
+
+## SEO Improvements
+- Added relevant keywords for better SEO ranking.
+- Included meta descriptions and header tags.
+- Optimized images with alt attributes.
+
+## Projects
+
+- **Portfolio Website**: A responsive personal portfolio website built using React, showcasing web development skills, with a contact form and a list of projects.
+
+
+
+
